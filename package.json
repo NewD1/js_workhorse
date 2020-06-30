@@ -1,0 +1,22 @@
+{
+  "name": "cost-roma",
+  "version": "1.0.0",
+  "description": "just a little project that made to test my skills xd",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "js",
+    "routing"
+  ],
+  "author": "NewD",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {}
+}
